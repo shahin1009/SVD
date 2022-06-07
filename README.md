@@ -1,6 +1,9 @@
 # SVD
 All about singular value decomposition
 
+###  :file_folder: File Structure
+
+```
 .
 ├── ImageDecomposition.ipynb
 │   ├── Introduction to SVD
@@ -10,3 +13,4 @@ All about singular value decomposition
 ├── ClassificationSVD.ipynb
 │   ├── Data classification using SVD
 └── README.md
+```
